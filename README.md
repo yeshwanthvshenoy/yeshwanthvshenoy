@@ -1,11 +1,12 @@
 ## Hey there! <img src="https://media.giphy.com/media/ckHycYZu3dbBRjU1Ie/giphy.gif" width="30px">
 
-I am Yeshwanth V Shenoy, people call me Yesh, currently enjoying my tech career at <a href="https://www.global.rakuten.com/"><img src="https://global.rakuten.com/corp/assets/img/common/logo.svg" width="70px"></a>. I am a tech enthusiast & an open-source lover. I am always open to collaborating on projects and innovative/disruptive ideas. I spend my time optimizing code and performance and have experience with handling systems at scale. To find out more about me, feel free to connect with me here:
+I am Yeshwanth V Shenoy, people call me Yesh, currently enjoying my tech career as a Senior Software Engineer at <a href="https://www.global.rakuten.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" width="70px"></a>. I have previously worked with <a href="https://www.freshworks.com/"><img src="https://www.freshworks.com/static-assets/images/common/company/logos/logo-fworks-black.svg?b478d1369c549425329a05cc6ed3382e" width="70px"></a> and <a href="https://tpfsoftware.com/"><img src="https://tpfsoftware.com/assets/images/logo.png" width="70px"></a> where I built distributed, large scale scalable and fault tolerant products and platforms. I am a tech enthusiast & an open-source lover. I am always open to collaborating on projects and innovative/disruptive ideas. I spend my time optimizing code and fixing performance issues at scale. To find out more about me, feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-yeshwanthvshenoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeshwanthvshenoy/)](https://www.linkedin.com/in/yeshwanthvshenoy/)
 [![Gmail Badge](https://img.shields.io/badge/-yeshwanthvshenoy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeshwanthvshenoy@gmail.com)](mailto:yeshwanthvshenoy@gmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/-yeshwanthvshenoy-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)](https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)
 [![Github Badge](https://img.shields.io/badge/-yeshwanthvshenoy-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yeshwanthvshenoy)](https://github.com/yeshwanthvshenoy)
+[![Dev.to Badge](https://img.shields.io/badge/-yeshwanthvshenoy-navy?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/yeshwanthvshenoy)](https://dev.to/yeshwanthvshenoy)
 
 ## ⚡ Technologies
 
@@ -20,7 +21,7 @@ I am Yeshwanth V Shenoy, people call me Yesh, currently enjoying my tech career 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=cassandra)
+![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=apache-cassandra)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
