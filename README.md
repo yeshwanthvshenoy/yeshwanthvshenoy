@@ -1,38 +1,58 @@
-## Hey there! <img src="https://media.giphy.com/media/ckHycYZu3dbBRjU1Ie/giphy.gif" width="30px">
+# I'm Yeshwanth V Shenoy <img src="https://media.giphy.com/media/ckHycYZu3dbBRjU1Ie/giphy.gif" width="30px"> &ndash; Senior Software Engineer
+- 6+ years of experience as a software engineer in various industries
+- Full stack engineer with a concentration on back-end technologies
+- Trained and mentored several back-end engineers
+- Experience with Microservices, Test Driven Development and Agile methodologies/techniques
+- Hands on with optimizing application API latencies using Distributed Tracing, Logging, Slow Queries, Caching, etc on Amazon Cloud Services/Google Cloud Platform
+- Experience building large scale, distributed and fault tolerant products and platforms
 
-I am Yeshwanth V Shenoy, people call me Yesh, currently enjoying my tech career as a Senior Software Engineer at <a href="https://www.global.rakuten.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" width="70px"></a>. I have previously worked with <a href="https://www.freshworks.com/"><img src="https://www.freshworks.com/static-assets/images/common/company/logos/logo-fworks-black.svg?b478d1369c549425329a05cc6ed3382e" width="70px"></a> and <a href="https://tpfsoftware.com/"><img src="https://tpfsoftware.com/assets/images/logo.png" width="70px"></a> where I built distributed, large scale scalable and fault tolerant products and platforms. I am a tech enthusiast & an open-source lover. I am always open to collaborating on projects and innovative/disruptive ideas. I spend my time optimizing code and fixing performance issues at scale. To find out more about me, feel free to connect with me here:
-
+# Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-yeshwanthvshenoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeshwanthvshenoy/)](https://www.linkedin.com/in/yeshwanthvshenoy/)
 [![Gmail Badge](https://img.shields.io/badge/-yeshwanthvshenoy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeshwanthvshenoy@gmail.com)](mailto:yeshwanthvshenoy@gmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/-yeshwanthvshenoy-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)](https://stackoverflow.com/users/12767234/yeshwanth-v-shenoy?tab=profile)
 [![Github Badge](https://img.shields.io/badge/-yeshwanthvshenoy-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yeshwanthvshenoy)](https://github.com/yeshwanthvshenoy)
 [![Dev.to Badge](https://img.shields.io/badge/-yeshwanthvshenoy-navy?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/yeshwanthvshenoy)](https://dev.to/yeshwanthvshenoy)
 
-## ⚡ Technologies
+# Skills
+| Skill Type             | Skills                                                                                                       |
+|------------------------|--------------------------------------------------------------------------------------------------------------|
+| Programming Languages  | Java, Python, Typescript, Golang                                                                             |
+| Databases              | MySQL, PostgreSQL, Firebase, Redis                                                                           |
+| Framework & Libraries  | Spring Boot, Hibernate, jOOQ, Proto, gRPC, Protobuf, Kafka, Node.js, Angular, Docker, Kubernetes, Fast API   |
+| Architectural Patterns | Microservices, Model View Controller, Event driven                                                           |
+| Methodologies          | Agile, Scrum, Kanban, Cross-platform Development, Object-Oriented Programming, Rapid Application Development |
+| Automation Software    | Gradle, Jenkins, Spinnaker, Github Workflow                                                                  |
+| Tools                  | DataDog, PagerDuty, LogEntries, Zipkin Tracing, Nginx, Ingress                                               |
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Sprint%20Boot-black?style=flat-square&logo=spring)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=apache-cassandra)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=scala)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apache-kafka)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Spinnaker](https://img.shields.io/badge/-Spinnaker-black?style=flat-square&logo=spinnaker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+# Work Experience
+## **Rakuten Inc, Bangalore, IN**  
+*August 2020 &ndash; Present*  
+- Implemented various POC for internal and external stakeholders that boosted the confidence and revenue directly of Rakuten India
+- Responsible for productionizing POC from scratch including creating cost/infrastructure estimations, time estimations, determining High Availability (HA) and also Service Level Agreement (SLA)
+- Created multiple High Level Design and Architected solutions for real world problems
+- Setup custom data pipeline from scratch that helped ingest live video feed from around 20 cameras with a delay of 30 seconds for real time analysis
+- Modularized monolith Payments service into microservices and also performance tuned so as to achieve 37% better Request Per Second (RPS)
+- Managed a team of 7 (Project 1) + 4 (Project 2) engineers including front-end, back-end and quality assurance
+- Communicate and collaborate with multidisciplinary teams of engineers, stakeholders and clients on a regular basis across a geographically distributed team in India and Japan
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yeshwanthvshenoy&show_icons=true)
+## **Freshworks Inc, Bangalore, IN**  
+*May 2018 &ndash; August 2020*  
+- Wrote robust code, performant code for real time system used by Freshworks products using Event Driven Microservice architecture
+- Developed and shipped highly scalable, fault tolerant features used by real time products with availability upto 99.999% and latencies lesser than 250ms
+- Developed Cloud Agnostic features and adoption of open source tools/frameworks thereby reducing costs of the infrastructure by around 20%
+- Responsible for security compliance of applications and any security concerns including OWASP vulnerabilities
+- Performed various code reviews, adhering to quality standards and test driven model
+- Successfully lead a team of 6 engineers who are in back-end and quality assurance background for achieving monthly and quarterly roadmap items
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yeshwanthvshenoy.yeshwanthvshenoy)
+## **TPF Software Inc, Chennai, IN**  
+*May 2015 &ndash; May 2018*  
+- Engineered and maintained a wide array of products for clients
+- Responsible for engineering and creating tools that aimed to mimic Find Usage(s) (present in various IDEs) for TPF developers thereby increasing productivity of customers
+- Developed and shipped critical features of multiple products
+- Communicate and collaborate with multidisciplinary teams of engineers, stakeholders and clients on a daily basis across a geographically distributed team
+
+
+# Education
+**Jerusalem College of Engineering, Chennai, IN**  
+B.E. in Computer Science and Engineering  
+*Sept 2011 - May 2015*  
