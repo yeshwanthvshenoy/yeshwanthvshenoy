@@ -16,7 +16,7 @@
 # Skills
 | Skill Type             | Skills                                                                                                       |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
-| Programming Languages  | Java, Python, Typescript, Golang                                                                             |
+| Programming Languages  | Java, Golang, Typescript, Python                                                                             |
 | Databases              | MySQL, PostgreSQL, Firebase, Redis                                                                           |
 | Framework & Libraries  | Spring Boot, Hibernate, jOOQ, Proto, gRPC, Protobuf, Kafka, Node.js, Angular, Docker, Kubernetes, Fast API   |
 | Architectural Patterns | Microservices, Model View Controller, Event driven                                                           |
