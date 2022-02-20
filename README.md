@@ -1,4 +1,4 @@
-# I'm Yeshwanth V Shenoy 👋🏼 &ndash; Senior Software Engineer
+# I'm Yeshwanth V Shenoy 👋🏼 &ndash; Lead Software Engineer
 
 ## 📜 Summary
  - 6+ years of experience as a software engineer across various industries
