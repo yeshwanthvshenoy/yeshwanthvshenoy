@@ -1,7 +1,7 @@
 # I'm Yeshwanth V Shenoy 👋🏼 &ndash; Lead Software Engineer
 
 ## 📜 Summary
- - 6+ years of experience as a software engineer across various industries
+ - 7+ years of experience as a software engineer across various industries
  - Full stack engineer with a concentration on back-end technologies
  - Trained and mentored several back-end engineers
  - Experience with Microservices, Test Driven Development and Agile methodologies/techniques
