@@ -1,7 +1,7 @@
 # I'm Yeshwanth V Shenoy 👋🏼 &ndash; Lead Software Engineer
 
 ## 📜 Summary
- - 7+ years of experience as a software engineer across various industries
+ - 8+ years of experience as a software engineer across various industries
  - Full stack engineer with a concentration on back-end technologies
  - Trained and mentored several back-end engineers
  - Experience with Microservices, Test Driven Development and Agile methodologies/techniques
@@ -21,10 +21,11 @@
 ## 💻 Technical Skills
 | Type                   | Skills                                                                                                       |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
-| Programming Languages  | Java, Golang, Typescript, Python                                                                             |
-| Databases              | MySQL, PostgreSQL, Firebase, Redis                                                                           |
-| Framework & Libraries  | Spring Boot, Hibernate, jOOQ, Proto, gRPC, Protobuf, Kafka, Node.js, Angular, Docker, Kubernetes, Fast API   |
+| Programming Languages  | Java, Golang, Typescript                                                                                     |
+| Databases              | MySQL, PostgreSQL, MongoDB, Redis                                                                            |
+| Framework & Libraries  | Spring Boot, Hibernate, jOOQ, Proto, gRPC, Protobuf, Kafka, Node.js, Angular, Docker, Kubernetes,            |
 | Architectural Patterns | Microservices, Model View Controller, Event driven                                                           |
-| Methodologies          | Agile, Scrum, Kanban, Cross-platform Development, Object-Oriented Programming, Rapid Application Development |
+| Methodologies          | Agile, Scrum, Kanban, Object-Oriented Programming,                                                           |
 | Automation Software    | Gradle, Jenkins, Spinnaker, Github Workflow                                                                  |
-| Tools                  | DataDog, PagerDuty, LogEntries, Zipkin Tracing, Nginx, Ingress                                               |
+| Tools                  | DataDog, PagerDuty, LogEntries, Grafana, Prometheus, Zipkin Tracing, Nginx, Ingress                          |
+| Cloud Platforms        | Amazon Web Services, Google Cloud Platform                                                                   |
